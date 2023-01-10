@@ -21,7 +21,7 @@ const CartReducer = createSlice({
             state.cartValues.splice(index,1);
             }
             const priceArray=state.cartValues.map(obj=>obj.productPrice);
-            state.totalPrice=priceArray.reduce((acc,cur)=> acc+cur,0)
+            state.totalPrice=priceArray.reduce((acc,cur)=> acc+cur)
         }
     }
 })
