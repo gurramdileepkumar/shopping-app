@@ -1,0 +1,52 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"RealMe Q2",
+            "url":"https://www.dhresource.com/0x0s/f2-albu-g17-M01-AC-F0-rBVa4l-04CSAEsGhAANodbh1tFc856.jpg/original-realme-q2-5g-mobile-phone-4gb-ram.jpg",
+            "price":14999
+        },
+        {
+            "id":2,
+            "name":"Samsung",
+            "url":"https://www.dhresource.com/0x0s/f2-albu-g17-M01-AC-F0-rBVa4l-04CSAEsGhAANodbh1tFc856.jpg/original-realme-q2-5g-mobile-phone-4gb-ram.jpg",
+            "price":11999
+        },
+        {
+            "id":3,
+            "name":"RealMe norzo",
+            "url":"https://www.dhresource.com/0x0s/f2-albu-g17-M01-AC-F0-rBVa4l-04CSAEsGhAANodbh1tFc856.jpg/original-realme-q2-5g-mobile-phone-4gb-ram.jpg",
+            "price":12999
+        },
+        {
+            "id":4,
+            "name":"Oppo reno",
+            "url":"https://www.dhresource.com/0x0s/f2-albu-g17-M01-AC-F0-rBVa4l-04CSAEsGhAANodbh1tFc856.jpg/original-realme-q2-5g-mobile-phone-4gb-ram.jpg",
+            "price":16999
+        },
+        {
+            "id":5,
+            "name":"RealMe 7Pro",
+            "url":"https://www.dhresource.com/0x0s/f2-albu-g17-M01-AC-F0-rBVa4l-04CSAEsGhAANodbh1tFc856.jpg/original-realme-q2-5g-mobile-phone-4gb-ram.jpg",
+            "price":13999
+        },
+        {
+            "id":6,
+            "name":"One Plus",
+            "url":"https://www.dhresource.com/0x0s/f2-albu-g17-M01-AC-F0-rBVa4l-04CSAEsGhAANodbh1tFc856.jpg/original-realme-q2-5g-mobile-phone-4gb-ram.jpg",
+            "price":22999
+        },
+        {
+            "id":7,
+            "name":"Samsung Galaxy11",
+            "url":"https://www.dhresource.com/0x0s/f2-albu-g17-M01-AC-F0-rBVa4l-04CSAEsGhAANodbh1tFc856.jpg/original-realme-q2-5g-mobile-phone-4gb-ram.jpg",
+            "price":14999
+        },
+        {
+            "id":8,
+            "name":"Motrela 511",
+            "url":"https://www.dhresource.com/0x0s/f2-albu-g17-M01-AC-F0-rBVa4l-04CSAEsGhAANodbh1tFc856.jpg/original-realme-q2-5g-mobile-phone-4gb-ram.jpg",
+            "price":10999
+        }
+    ]
+}
